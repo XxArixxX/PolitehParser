@@ -1,0 +1,17 @@
+C:\Users\Gamer\source\repos\ParserV2\ParserV2\bin\Debug\ParserV2.exe.config
+C:\Users\Gamer\source\repos\ParserV2\ParserV2\bin\Debug\ParserV2.exe
+C:\Users\Gamer\source\repos\ParserV2\ParserV2\bin\Debug\ParserV2.pdb
+C:\Users\Gamer\source\repos\ParserV2\ParserV2\bin\Debug\ExcelDataReader.dll
+C:\Users\Gamer\source\repos\ParserV2\ParserV2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gamer\source\repos\ParserV2\ParserV2\bin\Debug\ExcelDataReader.pdb
+C:\Users\Gamer\source\repos\ParserV2\ParserV2\bin\Debug\ExcelDataReader.xml
+C:\Users\Gamer\source\repos\ParserV2\ParserV2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gamer\source\repos\ParserV2\ParserV2\obj\Debug\ParserV2.csproj.AssemblyReference.cache
+C:\Users\Gamer\source\repos\ParserV2\ParserV2\obj\Debug\ParserV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gamer\source\repos\ParserV2\ParserV2\obj\Debug\ParserV2.Form1.resources
+C:\Users\Gamer\source\repos\ParserV2\ParserV2\obj\Debug\ParserV2.Properties.Resources.resources
+C:\Users\Gamer\source\repos\ParserV2\ParserV2\obj\Debug\ParserV2.csproj.GenerateResource.cache
+C:\Users\Gamer\source\repos\ParserV2\ParserV2\obj\Debug\ParserV2.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\source\repos\ParserV2\ParserV2\obj\Debug\ParserV2.csproj.CopyComplete
+C:\Users\Gamer\source\repos\ParserV2\ParserV2\obj\Debug\ParserV2.exe
+C:\Users\Gamer\source\repos\ParserV2\ParserV2\obj\Debug\ParserV2.pdb
